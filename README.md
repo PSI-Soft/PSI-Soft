@@ -1,16 +1,13 @@
-### Hi there 👋
+### Heyo! My names PSI, and I make games.
 
-<!--
-**PSI-Soft/PSI-Soft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What Im currently working on: Im learning the Godot engine and Im making my first major game with the engine.
 
-Here are some ideas to get you started:
+Here are some places you can visit me at: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Neocites page: therealmofabsurdity.neocities.org
+Itch page: psisoft.itch.io
+
+And you can contact me here:
+
+Twitter: @PSI_Boredom
+Discord: PSI#4402
