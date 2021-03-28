@@ -6,14 +6,14 @@ What Im currently working on: Im learning the Godot engine and Im making my firs
 
 Here are some places you can visit me at: 
 
-Neocites page: therealmofabsurdity.neocities.org
+-Neocites page: therealmofabsurdity.neocities.org
 
-Itch page: psisoft.itch.io
+-Itch page: psisoft.itch.io
 
 
 
 And you can contact me here:
 
-Twitter: @PSI_Boredom
+-Twitter: @PSI_Boredom
 
-Discord: PSI#4402
+-Discord: PSI#4402
